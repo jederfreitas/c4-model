@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T17:16:47.384Z" agent="5.0 (Windows)" etag="zNaUAvQ9xAMTqTRfoU1Z" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T17:25:56.469Z" agent="5.0 (Windows)" etag="WPpD7gv4r7OtQRM1qzwa" version="14.8.2" type="github">
   <diagram id="Ra6DSvLFJcMObKfpcnIU" name="Page-1">
-    <mxGraphModel dx="1638" dy="2632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1564" dy="2551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,7 +366,7 @@
             <mxGeometry x="350" y="2350" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Service Mode Update Manager Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Responsável por gerenciar o processo de atualização da malha de contingência utilizando serviços no Windows, ou Daemon no Linux" id="_02PsVBJHneBdwfad3jd-24">
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Service Mode Update Manager Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Responsável por gerenciar o processo de atualização da malha de contingência utilizando serviços no Windows ou Daemon no Linux" id="_02PsVBJHneBdwfad3jd-24">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" vertex="1" parent="1">
             <mxGeometry x="1240" y="2350" width="240" height="120" as="geometry" />
           </mxCell>
