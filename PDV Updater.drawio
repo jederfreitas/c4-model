@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T20:33:55.172Z" agent="5.0 (Windows)" etag="yiFNC2cW5y9ZZ2kacwIx" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T21:02:55.902Z" agent="5.0 (Windows)" etag="MDNUjrCog3rlApNMA_gN" version="14.8.2" type="github">
   <diagram id="Ra6DSvLFJcMObKfpcnIU" name="Page-1">
-    <mxGraphModel dx="1638" dy="2632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1862" dy="2729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
         </object>
         <object label="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;%A_NAME%&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#4D4D4D&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Componente Diagram for Updater Local Agent" id="ZbQey0YeqCt9wjUXQE5D-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;" parent="1" vertex="1">
-            <mxGeometry x="140" y="1100" width="1400" height="600" as="geometry" />
+            <mxGeometry x="140" y="880" width="1400" height="1000" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Local Agent" C_DESCRIPTION="Responsável por gerir o processo de troca de versões do PDV, fazendo comunicação com o Agent Central de atualização instalado na loja." B_TECHNOLOGY="C#, .NetCore 5" id="ZbQey0YeqCt9wjUXQE5D-14">
@@ -532,7 +532,7 @@
         </object>
         <object label="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;%A_NAME%&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#4D4D4D&quot;&gt;[Container]&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Component Diagram for Updater Central Manager" id="xJK4dwJIJH8hYzW3gMwY-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;" vertex="1" parent="1">
-            <mxGeometry y="2970" width="1810" height="860" as="geometry" />
+            <mxGeometry y="2970" width="1650" height="860" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Checker Scheduler" B_TECHNOLOGY="C#" C_DESCRIPTION="Dispara eventos periodicamente para consulta de atualizações no Backoffice do LFC" id="xJK4dwJIJH8hYzW3gMwY-7">
@@ -592,7 +592,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Update DB" B_TECHNOLOGY="Mongodb" C_DESCRIPTION="Banco de dados do serviço de atualização, para gerir metadados do processo de atualização." placeholders="1" id="xJK4dwJIJH8hYzW3gMwY-27">
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Update Central Manager DB" B_TECHNOLOGY="Mongodb" C_DESCRIPTION="Banco de dados do serviço de atualização, para gerir metadados do processo de atualização." placeholders="1" id="xJK4dwJIJH8hYzW3gMwY-27">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#ffffff;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;fillColor=#23A2D9;strokeColor=#0E7DAD;spacingTop=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;" vertex="1" parent="1">
             <mxGeometry x="720" y="3240" width="240" height="120" as="geometry" />
           </mxCell>
@@ -642,7 +642,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Update Controller" B_TECHNOLOGY="C# ASP.NET, JSON, HTTP" C_DESCRIPTION="Responsável por gerir métodos de consulta de atualizações disponíveis para a loja pelos PDVs, bem como envio de telemetria" id="xJK4dwJIJH8hYzW3gMwY-44">
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Update Controller" B_TECHNOLOGY="C# ASP.NET, JSON, HTTP" C_DESCRIPTION="API Responsável por gerir métodos de consulta de atualizações disponíveis para a loja pelos PDVs, bem como envio de telemetria" id="xJK4dwJIJH8hYzW3gMwY-44">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" vertex="1" parent="1">
             <mxGeometry x="1100" y="2992" width="240" height="120" as="geometry" />
           </mxCell>
@@ -679,7 +679,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Update Files Controller" B_TECHNOLOGY="C# ASP.NET, Binary, HTTP" C_DESCRIPTION="Responsável por gerir métodos de download de arquivos a partir do repositório local." id="xJK4dwJIJH8hYzW3gMwY-49">
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Update Files Controller" B_TECHNOLOGY="C# ASP.NET, Binary, HTTP" C_DESCRIPTION="API Responsável por gerir métodos de download de arquivos a partir do repositório local." id="xJK4dwJIJH8hYzW3gMwY-49">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" vertex="1" parent="1">
             <mxGeometry x="1380" y="2992" width="240" height="120" as="geometry" />
           </mxCell>
@@ -695,7 +695,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Files repo" B_TECHNOLOGY="" C_DESCRIPTION="Repositório em sistema de arquivos do SO contendo arquivos de atualização." placeholders="1" id="xJK4dwJIJH8hYzW3gMwY-52">
+        <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Files repository" B_TECHNOLOGY="" C_DESCRIPTION="Repositório em sistema de arquivos do SO contendo arquivos de atualização." placeholders="1" id="xJK4dwJIJH8hYzW3gMwY-52">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;fillColor=#23A2D9;strokeColor=#0E7DAD;spacingTop=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
             <mxGeometry x="560" y="3610" width="240" height="120" as="geometry" />
           </mxCell>
