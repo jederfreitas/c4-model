@@ -1,249 +1,249 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T17:16:00.087Z" agent="5.0 (Windows)" etag="w3xkxVGUbJdGJQow4ETe" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T17:18:59.975Z" agent="5.0 (Windows)" etag="P2dXaME5Nu7Uuv2F7Y0J" version="14.8.3" type="github">
   <diagram id="Ra6DSvLFJcMObKfpcnIU" name="Page-1">
-    <mxGraphModel dx="3011" dy="2570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="1">
+    <mxGraphModel dx="4343" dy="3137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Vendedor" B_DESCRIPTION="Usuários que realizarão operações do dia a dia." placeholders="1" id="KcmYJF3Uc0OTwMoQ4MOy-2">
           <mxCell style="shape=stencil(tZTRUsMgEEW/hsdmCNimr06s/4Fka3aSQAZwWv16STYZRaXjaDuTl3sXTu6SJUzWvlUjMMGNGoDJBybEoDRCJ3fbjb7bjOC8NdGNS1qql3tO+kRa8EUrP4IOZB7xDA3ZPjjbwQmbsADQtOAwTFV5YPw+rpkeWWtrTCSgNT6pfKpHmEIT9/IzwXixpde8LppUzI0DBHBLZnKZePw9OMUW1bXA5a3AvBDpWZTXI98MXP2DLOvo5IZG1k9Kd8/OvpjmxzxzxU0Tm/nmVWbO13tQrnPvtMe35fZIcfkUjtj3dCNyDWVix63WwYV+oO9x9PDRze7LCCfd7NNmVvn32N/SzS79XmbjHQ==);whiteSpace=wrap;html=1;arcSize=30;allowArrows=0;rotatable=0;spacingTop=70;aspect=fixed;editable=1;metaEdit=1;resizable=0;strokeColor=#06315C;fillColor=#083F75;recursiveResize=0;expand=0;fontStyle=1;fontSize=13;fontColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="340" y="-100" width="200" height="180" as="geometry" />
+            <mxGeometry x="-100" y="40" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;%A_NAME%&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#4D4D4D&quot;&gt;[Container]&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Atualizador PDV" id="KcmYJF3Uc0OTwMoQ4MOy-3">
           <mxCell style="whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="150" y="140" width="1390" height="680" as="geometry" />
+            <mxGeometry x="-290" y="280" width="1930" height="680" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="PDV" C_DESCRIPTION="Single-Page Application do PDV." B_TECHNOLOGY="React, NodeJs, Electron, Redux" id="KcmYJF3Uc0OTwMoQ4MOy-4">
           <mxCell style="whiteSpace=wrap;html=1;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="320" y="170" width="240" height="120" as="geometry" />
+            <mxGeometry x="-120" y="310" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Local Agent" C_DESCRIPTION="Responsável por gerir o processo de troca de versões do PDV, fazendo comunicação com o Agent Central de atualização instalado na loja." B_TECHNOLOGY="C#, .NetCore 5" id="KcmYJF3Uc0OTwMoQ4MOy-5">
           <mxCell style="whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="320" y="420" width="240" height="120" as="geometry" />
+            <mxGeometry x="-120" y="560" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes API calls" B_TECHNOLOGY="JSON/HTTP" id="KcmYJF3Uc0OTwMoQ4MOy-8">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=1.008;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KcmYJF3Uc0OTwMoQ4MOy-5" target="KcmYJF3Uc0OTwMoQ4MOy-9" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="430" y="420" as="sourcePoint" />
-              <mxPoint x="670" y="420" as="targetPoint" />
+              <mxPoint x="-10" y="560" as="sourcePoint" />
+              <mxPoint x="230" y="560" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Central Manager" C_DESCRIPTION="Responsável por gerir o processo de atualização do PDV fazendo comunicação com o Backoff para verificar se há atualizações disponíveis para a loja." B_TECHNOLOGY="C#, .NetCore 5, Docker, Mongodb" id="KcmYJF3Uc0OTwMoQ4MOy-9">
           <mxCell style="whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="710" y="430" width="240" height="120" as="geometry" />
+            <mxGeometry x="270" y="570" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes Web Socket Notifications" B_TECHNOLOGY="JSON/HTTP/WebSocket" id="KcmYJF3Uc0OTwMoQ4MOy-10">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KcmYJF3Uc0OTwMoQ4MOy-5" target="KcmYJF3Uc0OTwMoQ4MOy-4" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="270" y="320" as="sourcePoint" />
-              <mxPoint x="510" y="320" as="targetPoint" />
+              <mxPoint x="-170" y="460" as="sourcePoint" />
+              <mxPoint x="70" y="460" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="e.g. Visits pages" id="KcmYJF3Uc0OTwMoQ4MOy-12">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KcmYJF3Uc0OTwMoQ4MOy-2" target="KcmYJF3Uc0OTwMoQ4MOy-4" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="710" y="90" as="sourcePoint" />
-              <mxPoint x="950" y="90" as="targetPoint" />
+              <mxPoint x="270" y="230" as="sourcePoint" />
+              <mxPoint x="510" y="230" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Backoffice" C_DESCRIPTION="Serviço central, rodando em nuvem, responsável por gerir cadastro de clientes, licenças e atualizacões" B_TECHNOLOGY="DotNet Core 5, Rest, Docker, Azure" id="KcmYJF3Uc0OTwMoQ4MOy-13">
           <mxCell style="whiteSpace=wrap;html=1;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;align=center;fontStyle=1;fontColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="710" y="170" width="240" height="120" as="geometry" />
+            <mxGeometry x="270" y="310" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes API calls" B_TECHNOLOGY="JSON/HTTPS" id="KcmYJF3Uc0OTwMoQ4MOy-15">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KcmYJF3Uc0OTwMoQ4MOy-4" target="KcmYJF3Uc0OTwMoQ4MOy-13" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="720" y="240" as="sourcePoint" />
-              <mxPoint x="990" y="239.5" as="targetPoint" />
+              <mxPoint x="280" y="380" as="sourcePoint" />
+              <mxPoint x="550" y="379.5" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes API calls" B_TECHNOLOGY="JSON/HTTPS" id="KcmYJF3Uc0OTwMoQ4MOy-16">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KcmYJF3Uc0OTwMoQ4MOy-9" target="KcmYJF3Uc0OTwMoQ4MOy-13" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="860" y="390" as="sourcePoint" />
-              <mxPoint x="1060" y="390" as="targetPoint" />
+              <mxPoint x="420" y="530" as="sourcePoint" />
+              <mxPoint x="620" y="530" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Offline Updater Local Agent" C_DESCRIPTION="Responsável por gerir o processo de atualização das imagens Docker, quando utilizado, ou dos serviços no Windows/Linx, bem como a execução de migrations da malha de contingência" B_TECHNOLOGY="C#, .NetCore 5, MongoDB" id="1vHx0X96SqIEpwtabKhv-1">
           <mxCell style="whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="710" y="650" width="240" height="120" as="geometry" />
+            <mxGeometry x="270" y="790" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes API calls" B_TECHNOLOGY="JSON/HTTP" id="1vHx0X96SqIEpwtabKhv-2">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1vHx0X96SqIEpwtabKhv-1" target="KcmYJF3Uc0OTwMoQ4MOy-9" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="830" y="601.1" as="sourcePoint" />
-              <mxPoint x="840" y="560" as="targetPoint" />
+              <mxPoint x="390" y="741.1" as="sourcePoint" />
+              <mxPoint x="400" y="700" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Contingência DB" B_TECHNOLOGY="Mongodb" C_DESCRIPTION="Banco de dados do serviço de contingência" placeholders="1" id="1vHx0X96SqIEpwtabKhv-3">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#ffffff;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;fillColor=#23A2D9;strokeColor=#0E7DAD;spacingTop=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="1080" y="650" width="240" height="120" as="geometry" />
+            <mxGeometry x="640" y="790" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="1vHx0X96SqIEpwtabKhv-4" value="" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeColor=#828282;strokeWidth=1;endFill=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1vHx0X96SqIEpwtabKhv-1" target="1vHx0X96SqIEpwtabKhv-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="970" y="719.4100000000001" as="sourcePoint" />
-            <mxPoint x="1210" y="719.4100000000001" as="targetPoint" />
+            <mxPoint x="530" y="859.4100000000001" as="sourcePoint" />
+            <mxPoint x="770" y="859.4100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Central Updater DB" B_TECHNOLOGY="Mongodb" C_DESCRIPTION="Banco de dados do serviço de central de atualizações, para armazenamento de metadados de atualização." placeholders="1" id="1vHx0X96SqIEpwtabKhv-6">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#ffffff;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;fillColor=#23A2D9;strokeColor=#0E7DAD;spacingTop=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="1090" y="430" width="240" height="120" as="geometry" />
+            <mxGeometry x="650" y="570" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="1vHx0X96SqIEpwtabKhv-7" value="" style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeColor=#828282;strokeWidth=1;endFill=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KcmYJF3Uc0OTwMoQ4MOy-9" target="1vHx0X96SqIEpwtabKhv-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="500" as="sourcePoint" />
-            <mxPoint x="1300" y="500.40999999999997" as="targetPoint" />
+            <mxPoint x="560" y="640" as="sourcePoint" />
+            <mxPoint x="860" y="640.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="PDV LFC" B_DESCRIPTION="PDV Linx Farma Cloud, permite o usuário realizar vendas, recebimentos, cancelamentos etc." id="ZbQey0YeqCt9wjUXQE5D-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;fillColor=#1061B0;strokeColor=#0D5091;expand=0;recursiveResize=0;" parent="1" vertex="1">
-            <mxGeometry x="650" y="-730" width="240" height="120" as="geometry" />
+            <mxGeometry x="50" y="-690" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Backoff LFC" B_DESCRIPTION="Sistema responsável por gerir cadastros de clientes, licenciamento, produtos liberados e atualizações do LFC" id="ZbQey0YeqCt9wjUXQE5D-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;fillColor=#1061B0;strokeColor=#0D5091;expand=0;recursiveResize=0;" parent="1" vertex="1">
-            <mxGeometry x="650" y="-560" width="240" height="120" as="geometry" />
+            <mxGeometry x="50" y="-520" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;%A_NAME%&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#4D4D4D&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Atualizador Linx Farma Cloud" id="ZbQey0YeqCt9wjUXQE5D-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;" parent="1" vertex="1">
-            <mxGeometry x="310" y="-745" width="860" height="595" as="geometry" />
+            <mxGeometry x="-290" y="-705" width="860" height="595" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Atualizador PDV" B_DESCRIPTION="Sistema responsável por gerir todo o processo de atualização do PDV, incluindo download de arquivos, migrações de banco de dados e troca de versões." id="ZbQey0YeqCt9wjUXQE5D-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;fillColor=#1061B0;strokeColor=#0D5091;expand=0;recursiveResize=0;" parent="1" vertex="1">
-            <mxGeometry x="340" y="-570" width="240" height="120" as="geometry" />
+            <mxGeometry x="-260" y="-530" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="ZbQey0YeqCt9wjUXQE5D-6">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-1" target="ZbQey0YeqCt9wjUXQE5D-2" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="870" y="-420" as="sourcePoint" />
-              <mxPoint x="990" y="-610" as="targetPoint" />
+              <mxPoint x="270" y="-380" as="sourcePoint" />
+              <mxPoint x="390" y="-570" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Make API Calls" id="ZbQey0YeqCt9wjUXQE5D-7">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=1.011;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-4" target="ZbQey0YeqCt9wjUXQE5D-2" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="725" y="-400" as="sourcePoint" />
-              <mxPoint x="870" y="-530" as="targetPoint" />
+              <mxPoint x="125" y="-360" as="sourcePoint" />
+              <mxPoint x="270" y="-490" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Vendedor" B_DESCRIPTION="Realiza operações no PDV, vendas, recebimentos etc." placeholders="1" id="ZbQey0YeqCt9wjUXQE5D-8">
           <mxCell style="shape=stencil(tZTRUsMgEEW/hsdmCNimr06s/4Fka3aSQAZwWv16STYZRaXjaDuTl3sXTu6SJUzWvlUjMMGNGoDJBybEoDRCJ3fbjb7bjOC8NdGNS1qql3tO+kRa8EUrP4IOZB7xDA3ZPjjbwQmbsADQtOAwTFV5YPw+rpkeWWtrTCSgNT6pfKpHmEIT9/IzwXixpde8LppUzI0DBHBLZnKZePw9OMUW1bXA5a3AvBDpWZTXI98MXP2DLOvo5IZG1k9Kd8/OvpjmxzxzxU0Tm/nmVWbO13tQrnPvtMe35fZIcfkUjtj3dCNyDWVix63WwYV+oO9x9PDRze7LCCfd7NNmVvn32N/SzS79XmbjHQ==);whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;arcSize=30;allowArrows=0;rotatable=0;spacingTop=70;aspect=fixed;editable=1;metaEdit=1;resizable=0;strokeColor=#06315C;fillColor=#083F75;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="670" y="-1000" width="200" height="180" as="geometry" />
+            <mxGeometry x="70" y="-960" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Usa" id="ZbQey0YeqCt9wjUXQE5D-10">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-8" target="ZbQey0YeqCt9wjUXQE5D-1" edge="1">
             <mxGeometry x="-0.4" y="10" width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="530" y="-770" as="sourcePoint" />
-              <mxPoint x="770" y="-770" as="targetPoint" />
+              <mxPoint x="-70" y="-730" as="sourcePoint" />
+              <mxPoint x="170" y="-730" as="targetPoint" />
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Colaborador Linx" B_DESCRIPTION="Realiza liberação de atualizações para o cliente, produtos etc." placeholders="1" id="ZbQey0YeqCt9wjUXQE5D-11">
           <mxCell style="shape=stencil(tZTRUsMgEEW/hsdmCNimr06s/4Fka3aSQAZwWv16STYZRaXjaDuTl3sXTu6SJUzWvlUjMMGNGoDJBybEoDRCJ3fbjb7bjOC8NdGNS1qql3tO+kRa8EUrP4IOZB7xDA3ZPjjbwQmbsADQtOAwTFV5YPw+rpkeWWtrTCSgNT6pfKpHmEIT9/IzwXixpde8LppUzI0DBHBLZnKZePw9OMUW1bXA5a3AvBDpWZTXI98MXP2DLOvo5IZG1k9Kd8/OvpjmxzxzxU0Tm/nmVWbO13tQrnPvtMe35fZIcfkUjtj3dCNyDWVix63WwYV+oO9x9PDRze7LCCfd7NNmVvn32N/SzS79XmbjHQ==);whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;arcSize=30;allowArrows=0;rotatable=0;spacingTop=70;aspect=fixed;editable=1;metaEdit=1;resizable=0;strokeColor=#06315C;fillColor=#083F75;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="1250" y="-630" width="200" height="180" as="geometry" />
+            <mxGeometry x="650" y="-590" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Usa" id="ZbQey0YeqCt9wjUXQE5D-12">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.005;exitY=0.731;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-11" target="ZbQey0YeqCt9wjUXQE5D-2" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1240" y="-650" as="sourcePoint" />
-              <mxPoint x="1440" y="-730" as="targetPoint" />
+              <mxPoint x="640" y="-610" as="sourcePoint" />
+              <mxPoint x="840" y="-690" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;%A_NAME%&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#4D4D4D&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Componente Diagram for Updater Local Agent" id="ZbQey0YeqCt9wjUXQE5D-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;" parent="1" vertex="1">
-            <mxGeometry x="140" y="880" width="1400" height="1000" as="geometry" />
+            <mxGeometry x="-280" y="1020" width="1920" height="1000" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Local Agent" C_DESCRIPTION="Responsável por gerir o processo de troca de versões do PDV, fazendo comunicação com o Agent Central de atualização instalado na loja." B_TECHNOLOGY="C#, .NetCore 5" id="ZbQey0YeqCt9wjUXQE5D-14">
           <mxCell style="whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="620" y="910" width="240" height="120" as="geometry" />
+            <mxGeometry x="200" y="1050" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Checker Scheduler" B_TECHNOLOGY="C#" C_DESCRIPTION="Dispara eventos periodicamente para consulta de atualizações no repositório central da loja." id="ZbQey0YeqCt9wjUXQE5D-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="620" y="1140" width="240" height="120" as="geometry" />
+            <mxGeometry x="200" y="1280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Update Dowloader Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza o Download da atualização disponível para o PDV." id="ZbQey0YeqCt9wjUXQE5D-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="250" y="1320" width="240" height="120" as="geometry" />
+            <mxGeometry x="-170" y="1460" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Installer Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza a instalação da atualização no PDV" id="ZbQey0YeqCt9wjUXQE5D-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="990" y="1320" width="240" height="120" as="geometry" />
+            <mxGeometry x="570" y="1460" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Central Manager" C_DESCRIPTION="Responsável por gerir o processo de atualização do PDV fazendo comunicação com o Backoff para verificar se há atualizações disponíveis para a loja." B_TECHNOLOGY="C#, .NetCore 5, Docker, Mongodb" id="ZbQey0YeqCt9wjUXQE5D-18">
           <mxCell style="whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="620" y="1730" width="240" height="120" as="geometry" />
+            <mxGeometry x="200" y="1870" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Download files" B_TECHNOLOGY="Binary/HTTP" id="ZbQey0YeqCt9wjUXQE5D-21">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=0.473;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-16" target="ZbQey0YeqCt9wjUXQE5D-18" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="380" y="1374.6" as="sourcePoint" />
-              <mxPoint x="810" y="1430" as="targetPoint" />
+              <mxPoint x="-40" y="1514.6" as="sourcePoint" />
+              <mxPoint x="390" y="1570" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Manager" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza o gerenciamento do processo de atualização do PDV" id="ZbQey0YeqCt9wjUXQE5D-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="620" y="1320" width="240" height="120" as="geometry" />
+            <mxGeometry x="200" y="1460" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="ZbQey0YeqCt9wjUXQE5D-23">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-22" target="ZbQey0YeqCt9wjUXQE5D-16" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="620" y="1320" as="sourcePoint" />
-              <mxPoint x="860" y="1320" as="targetPoint" />
+              <mxPoint x="200" y="1460" as="sourcePoint" />
+              <mxPoint x="440" y="1460" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="ZbQey0YeqCt9wjUXQE5D-24">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-22" target="ZbQey0YeqCt9wjUXQE5D-17" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="920" y="1219.6" as="sourcePoint" />
-              <mxPoint x="1070" y="1220" as="targetPoint" />
+              <mxPoint x="500" y="1359.6" as="sourcePoint" />
+              <mxPoint x="650" y="1360" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="ZbQey0YeqCt9wjUXQE5D-25">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-15" target="ZbQey0YeqCt9wjUXQE5D-22" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="620" y="1390" as="sourcePoint" />
-              <mxPoint x="860" y="1390" as="targetPoint" />
+              <mxPoint x="200" y="1530" as="sourcePoint" />
+              <mxPoint x="440" y="1530" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Notify about the update process" B_TECHNOLOGY="JSON/HTTP" id="ZbQey0YeqCt9wjUXQE5D-28">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="ZbQey0YeqCt9wjUXQE5D-18" edge="1">
             <mxGeometry x="-0.5194" y="-5" width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="990" y="1400" as="sourcePoint" />
-              <mxPoint x="1285.3600000000001" y="1580.36" as="targetPoint" />
+              <mxPoint x="570" y="1540" as="sourcePoint" />
+              <mxPoint x="865.3600000000001" y="1720.36" as="targetPoint" />
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
@@ -251,46 +251,46 @@
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="ZbQey0YeqCt9wjUXQE5D-29">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-14" target="ZbQey0YeqCt9wjUXQE5D-15" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="739.6" y="1050" as="sourcePoint" />
-              <mxPoint x="735" y="1108" as="targetPoint" />
+              <mxPoint x="319.6" y="1190" as="sourcePoint" />
+              <mxPoint x="315" y="1248" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="PDV" C_DESCRIPTION="Single-Page Application do PDV." B_TECHNOLOGY="React, NodeJs, Electron, Redux" id="ZbQey0YeqCt9wjUXQE5D-30">
           <mxCell style="whiteSpace=wrap;html=1;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="990" y="910" width="240" height="120" as="geometry" />
+            <mxGeometry x="570" y="1050" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Checker Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza consulta de atualizações disponíveis para a loja." id="ZbQey0YeqCt9wjUXQE5D-31">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="620" y="1500" width="240" height="120" as="geometry" />
+            <mxGeometry x="200" y="1640" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="ZbQey0YeqCt9wjUXQE5D-32">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-22" target="ZbQey0YeqCt9wjUXQE5D-31" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="765" y="1470" as="sourcePoint" />
-              <mxPoint x="895" y="1470" as="targetPoint" />
+              <mxPoint x="345" y="1610" as="sourcePoint" />
+              <mxPoint x="475" y="1610" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes API calls" B_TECHNOLOGY="JSON/HTTP" id="ZbQey0YeqCt9wjUXQE5D-33">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-31" target="ZbQey0YeqCt9wjUXQE5D-18" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="920" y="1580" as="sourcePoint" />
-              <mxPoint x="740" y="1690" as="targetPoint" />
+              <mxPoint x="500" y="1720" as="sourcePoint" />
+              <mxPoint x="320" y="1830" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Notification Hub Component" B_TECHNOLOGY="C#, WebSocket" C_DESCRIPTION="Hub responsável fazer a intermediação de notificações entre o PDV e o Agent de atualizações." id="ZbQey0YeqCt9wjUXQE5D-34">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="990" y="1140" width="240" height="120" as="geometry" />
+            <mxGeometry x="570" y="1280" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="ZbQey0YeqCt9wjUXQE5D-36" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#404040;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-34" target="ZbQey0YeqCt9wjUXQE5D-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1085" y="1120" as="sourcePoint" />
-            <mxPoint x="1135" y="1070" as="targetPoint" />
+            <mxPoint x="665" y="1260" as="sourcePoint" />
+            <mxPoint x="715" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbQey0YeqCt9wjUXQE5D-51" value="Comunicação via WebSocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="ZbQey0YeqCt9wjUXQE5D-36" vertex="1" connectable="0">
@@ -300,203 +300,203 @@
         </mxCell>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Atualizador malha de contingência" B_DESCRIPTION="Sistema responsável por gerir todo o processo de atualização do Offline, incluindo download de arquivos, migrações de banco de dados e troca de versões de binários e imagens Docker." id="ZbQey0YeqCt9wjUXQE5D-38">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;fillColor=#1061B0;strokeColor=#0D5091;expand=0;recursiveResize=0;" parent="1" vertex="1">
-            <mxGeometry x="650" y="-360" width="240" height="120" as="geometry" />
+            <mxGeometry x="50" y="-320" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Make API Calls" id="ZbQey0YeqCt9wjUXQE5D-42">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-38" target="ZbQey0YeqCt9wjUXQE5D-2" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="692.6400000000003" y="-491.24000000000024" as="sourcePoint" />
-              <mxPoint x="870" y="-550" as="targetPoint" />
+              <mxPoint x="92.64000000000033" y="-451.24000000000024" as="sourcePoint" />
+              <mxPoint x="270" y="-510" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="ZbQey0YeqCt9wjUXQE5D-50">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-22" target="ZbQey0YeqCt9wjUXQE5D-34" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="820" y="1310" as="sourcePoint" />
-              <mxPoint x="950" y="950" as="targetPoint" />
+              <mxPoint x="400" y="1450" as="sourcePoint" />
+              <mxPoint x="530" y="1090" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <mxCell id="ZbQey0YeqCt9wjUXQE5D-55" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;labelBackgroundColor=#ffffff;fontColor=#404040;entryX=1.006;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#828282;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-17" target="ZbQey0YeqCt9wjUXQE5D-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="1360" as="sourcePoint" />
-            <mxPoint x="1360" y="1310" as="targetPoint" />
+            <mxPoint x="890" y="1500" as="sourcePoint" />
+            <mxPoint x="940" y="1450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1360" y="1380" />
-              <mxPoint x="1360" y="977" />
+              <mxPoint x="940" y="1520" />
+              <mxPoint x="940" y="1117" />
             </Array>
           </mxGeometry>
         </mxCell>
         <object label="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;%A_NAME%&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#4D4D4D&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Componente Diagram for Offline Updater Local Agent" id="_02PsVBJHneBdwfad3jd-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;" parent="1" vertex="1">
-            <mxGeometry y="2130" width="1810" height="780" as="geometry" />
+            <mxGeometry x="-280" y="2130" width="1920" height="780" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Checker Scheduler" B_TECHNOLOGY="C#" C_DESCRIPTION="Dispara eventos periodicamente para consulta de atualizações no Backoffice do LFC" id="_02PsVBJHneBdwfad3jd-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="800" y="2170" width="240" height="120" as="geometry" />
+            <mxGeometry x="520" y="2170" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Update Dowloader Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza o Download de binários disponíveis para a malha de contingência" id="_02PsVBJHneBdwfad3jd-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="980" y="2530" width="240" height="120" as="geometry" />
+            <mxGeometry x="700" y="2530" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Manager" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza o gerenciamento do processo de atualização da malha de contingência" id="_02PsVBJHneBdwfad3jd-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="800" y="2350" width="240" height="120" as="geometry" />
+            <mxGeometry x="520" y="2350" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-18">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-12" target="_02PsVBJHneBdwfad3jd-15" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="750" y="2420" as="sourcePoint" />
-              <mxPoint x="990" y="2420" as="targetPoint" />
+              <mxPoint x="470" y="2420" as="sourcePoint" />
+              <mxPoint x="710" y="2420" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Checker Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza consulta de atualizações disponíveis para a a malha de contingência" id="_02PsVBJHneBdwfad3jd-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="1240" y="2530" width="240" height="120" as="geometry" />
+            <mxGeometry x="960" y="2530" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Docker Mode Update Manager" B_TECHNOLOGY="C#, Docker" C_DESCRIPTION="Responsável por gerir o processo de atualização da malha de contingência quando utilizado Docker" id="_02PsVBJHneBdwfad3jd-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="350" y="2350" width="240" height="120" as="geometry" />
+            <mxGeometry x="70" y="2350" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Service Mode Update Manager Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Responsável por gerenciar o processo de atualização da malha de contingência utilizando serviços no Windows ou Daemon no Linux" id="_02PsVBJHneBdwfad3jd-24">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="1240" y="2350" width="240" height="120" as="geometry" />
+            <mxGeometry x="960" y="2350" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Migrations Executor Component" B_TECHNOLOGY="C#, Mongodb" C_DESCRIPTION="Responsável por executar as migrações no MongoDB" id="_02PsVBJHneBdwfad3jd-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="720" y="2530" width="240" height="120" as="geometry" />
+            <mxGeometry x="440" y="2530" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Image Downloader Component" B_TECHNOLOGY="C#, Docker" C_DESCRIPTION="Responsável por realizar o download de imagens Docker" id="_02PsVBJHneBdwfad3jd-26">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="460" y="2530" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="2530" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Docker Updater Installer Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza a instalação da atualização no PDV na malha Docker" id="_02PsVBJHneBdwfad3jd-27">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="200" y="2530" width="240" height="120" as="geometry" />
+            <mxGeometry x="-80" y="2530" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-28">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-23" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="600" y="2600" as="sourcePoint" />
-              <mxPoint x="580" y="2530" as="targetPoint" />
+              <mxPoint x="320" y="2600" as="sourcePoint" />
+              <mxPoint x="300" y="2530" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-31">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-23" target="_02PsVBJHneBdwfad3jd-27" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="480" y="2575" as="sourcePoint" />
-              <mxPoint x="480" y="2650" as="targetPoint" />
+              <mxPoint x="200" y="2575" as="sourcePoint" />
+              <mxPoint x="200" y="2650" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-33">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-15" target="_02PsVBJHneBdwfad3jd-23" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="490" y="2490" as="sourcePoint" />
-              <mxPoint x="750" y="2570" as="targetPoint" />
+              <mxPoint x="210" y="2490" as="sourcePoint" />
+              <mxPoint x="470" y="2570" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-34">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-24" target="_02PsVBJHneBdwfad3jd-19" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1380" y="2455" as="sourcePoint" />
-              <mxPoint x="1940" y="2415" as="targetPoint" />
+              <mxPoint x="1100" y="2455" as="sourcePoint" />
+              <mxPoint x="1660" y="2415" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-36">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;" parent="1" source="_02PsVBJHneBdwfad3jd-14" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1750" y="2325" as="sourcePoint" />
-              <mxPoint x="1630" y="2535" as="targetPoint" />
+              <mxPoint x="1470" y="2325" as="sourcePoint" />
+              <mxPoint x="1350" y="2535" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-37">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-24" target="_02PsVBJHneBdwfad3jd-13" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="930" y="2345" as="sourcePoint" />
-              <mxPoint x="1120" y="2535" as="targetPoint" />
+              <mxPoint x="650" y="2345" as="sourcePoint" />
+              <mxPoint x="840" y="2535" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Installer Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Realiza a instalação da atualização no PDV" id="_02PsVBJHneBdwfad3jd-14">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="1500" y="2530" width="240" height="120" as="geometry" />
+            <mxGeometry x="1220" y="2530" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-39">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-24" target="_02PsVBJHneBdwfad3jd-14" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1370" y="2480" as="sourcePoint" />
-              <mxPoint x="1480" y="2540" as="targetPoint" />
+              <mxPoint x="1090" y="2480" as="sourcePoint" />
+              <mxPoint x="1200" y="2540" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-40">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#828282;" parent="1" source="_02PsVBJHneBdwfad3jd-15" target="_02PsVBJHneBdwfad3jd-24" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1130" y="2349.2" as="sourcePoint" />
-              <mxPoint x="1000" y="2349.2" as="targetPoint" />
+              <mxPoint x="850" y="2349.2" as="sourcePoint" />
+              <mxPoint x="720" y="2349.2" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <mxCell id="_02PsVBJHneBdwfad3jd-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0.475;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#828282;" parent="1" source="_02PsVBJHneBdwfad3jd-15" target="_02PsVBJHneBdwfad3jd-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="2480" as="sourcePoint" />
-            <mxPoint x="840" y="2530" as="targetPoint" />
+            <mxPoint x="610" y="2480" as="sourcePoint" />
+            <mxPoint x="560" y="2530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Contingência DB" B_TECHNOLOGY="Mongodb" C_DESCRIPTION="Banco de dados do serviço de contingência" placeholders="1" id="_02PsVBJHneBdwfad3jd-45">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#ffffff;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;fillColor=#23A2D9;strokeColor=#0E7DAD;spacingTop=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="720" y="2720" width="240" height="120" as="geometry" />
+            <mxGeometry x="440" y="2720" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Read and Write data" id="_02PsVBJHneBdwfad3jd-46">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-25" target="_02PsVBJHneBdwfad3jd-45" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="840" y="2680" as="sourcePoint" />
-              <mxPoint x="950" y="2740" as="targetPoint" />
+              <mxPoint x="560" y="2680" as="sourcePoint" />
+              <mxPoint x="670" y="2740" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Azure ACR Registry" B_DESCRIPTION="Repositório de imagens Docker do PDV" id="_02PsVBJHneBdwfad3jd-47">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;fillColor=#8C8496;strokeColor=#736782;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="460" y="2720" width="240" height="120" as="geometry" />
+            <mxGeometry x="180" y="2720" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="_02PsVBJHneBdwfad3jd-48">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;" parent="1" source="_02PsVBJHneBdwfad3jd-26" target="_02PsVBJHneBdwfad3jd-47" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="570" y="2660" as="sourcePoint" />
-              <mxPoint x="570" y="2730" as="targetPoint" />
+              <mxPoint x="290" y="2660" as="sourcePoint" />
+              <mxPoint x="290" y="2730" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Central Manager" C_DESCRIPTION="Responsável por gerir o processo de atualização do PDV fazendo comunicação com o Backoff para verificar se há atualizações disponíveis para a loja." B_TECHNOLOGY="C#, .NetCore 5, Docker, Mongodb" id="_02PsVBJHneBdwfad3jd-52">
           <mxCell style="whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="350" y="2170" width="240" height="120" as="geometry" />
+            <mxGeometry x="70" y="2170" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="_02PsVBJHneBdwfad3jd-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#828282;exitX=0.002;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-15" target="_02PsVBJHneBdwfad3jd-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="2310" as="sourcePoint" />
-            <mxPoint x="640" y="2260" as="targetPoint" />
+            <mxPoint x="310" y="2310" as="sourcePoint" />
+            <mxPoint x="360" y="2260" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -512,22 +512,22 @@
         </mxCell>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Updater Central Manager" C_DESCRIPTION="Responsável por gerir o processo de atualização do PDV fazendo comunicação com o Backoff para verificar se há atualizações disponíveis para a loja." B_TECHNOLOGY="C#, .NetCore 5, Docker, Mongodb" id="_02PsVBJHneBdwfad3jd-55">
           <mxCell style="whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;fillColor=#23A2D9;strokeColor=#0E7DAD;expand=0;recursiveResize=0;fontStyle=1;rounded=1;" parent="1" vertex="1">
-            <mxGeometry x="1240" y="2720" width="240" height="120" as="geometry" />
+            <mxGeometry x="960" y="2720" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes API calls" B_TECHNOLOGY="JSON/HTTP" id="_02PsVBJHneBdwfad3jd-57">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-19" target="_02PsVBJHneBdwfad3jd-55" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1290" y="2690" as="sourcePoint" />
-              <mxPoint x="1370" y="2750" as="targetPoint" />
+              <mxPoint x="1010" y="2690" as="sourcePoint" />
+              <mxPoint x="1090" y="2750" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[%B_TECHNOLOGY%]&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Makes API calls" B_TECHNOLOGY="JSON/HTTP" id="_02PsVBJHneBdwfad3jd-58">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-13" target="_02PsVBJHneBdwfad3jd-55" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1090" y="2652" as="sourcePoint" />
-              <mxPoint x="1099.6" y="2750" as="targetPoint" />
+              <mxPoint x="810" y="2652" as="sourcePoint" />
+              <mxPoint x="819.5999999999999" y="2750" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -863,27 +863,27 @@
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="SelfUpdate Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Se autoatualiza quando existir atualização." id="TIG3FDXsvqRTlRJgIm_W-29">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="990" y="1500" width="240" height="120" as="geometry" />
+            <mxGeometry x="570" y="1640" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="TIG3FDXsvqRTlRJgIm_W-30">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZbQey0YeqCt9wjUXQE5D-17" target="TIG3FDXsvqRTlRJgIm_W-29" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1070" y="1470" as="sourcePoint" />
-              <mxPoint x="1200" y="1470" as="targetPoint" />
+              <mxPoint x="650" y="1610" as="sourcePoint" />
+              <mxPoint x="780" y="1610" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Component: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#FAFAFA&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="SelfUpdate Component" B_TECHNOLOGY="C#" C_DESCRIPTION="Se autoatualiza quando existir atualização." id="TIG3FDXsvqRTlRJgIm_W-31">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;movableLabel=0;allowArrows=0;rotatable=0;strokeColor=#2086C9;fillColor=#63BEF2;recursiveResize=0;expand=0;" parent="1" vertex="1">
-            <mxGeometry x="1500" y="2720" width="240" height="120" as="geometry" />
+            <mxGeometry x="1220" y="2720" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;b&gt;%A_DESCRIPTION%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" A_DESCRIPTION="Uses" id="TIG3FDXsvqRTlRJgIm_W-32">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;backgroundOutline=0;editable=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;fontFamily=Helvetica;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_02PsVBJHneBdwfad3jd-14" target="TIG3FDXsvqRTlRJgIm_W-31" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1600" y="2690" as="sourcePoint" />
-              <mxPoint x="1860" y="2750" as="targetPoint" />
+              <mxPoint x="1320" y="2690" as="sourcePoint" />
+              <mxPoint x="1580" y="2750" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
